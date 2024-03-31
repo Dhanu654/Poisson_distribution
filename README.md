@@ -1,3 +1,8 @@
+~~~
+NAME    : K.DHANUSYA
+REG. NO.: 212223230043
+~~~
+
 # Fitting Poisson  distribution
 # Aim : 
 
@@ -30,8 +35,7 @@ The Poisson distribution is the discrete probability distribution of the number 
 
 # Program :
 ~~~
-Developed By: DHANUSYA K
-Register No:212223230043
+
 import numpy as np
 import math
 import scipy.stats
